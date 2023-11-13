@@ -20,6 +20,9 @@ public class Main {
 
 		
 	}
+	public void abc(){
+		
+	}
 	public void test() {
 		System.out.println("Main#test");
 		System.out.println("Main#test");
