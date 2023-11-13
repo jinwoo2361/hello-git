@@ -14,6 +14,10 @@ public class Main {
 		new Cat().jump();
 		new Lion().punch();
 		new Bird().fly();
+		
+	}
+	public void test() {
+		System.out.println("Main#test");
 	}
 
 }
