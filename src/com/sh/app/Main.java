@@ -11,6 +11,8 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("HELLO WORLD");
 		System.out.println("HELLO GIT");
+		
+		System.out.println("동물기능 시작~");
 		new Dog().bark();
 		new Cat().jump();
 		new Lion().punch();
