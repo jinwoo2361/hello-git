@@ -15,14 +15,14 @@ public class Main {
 		new Cat().jump();
 		new Lion().punch();
 		new Bird().fly();
-<<<<<<< HEAD
+		new Tiger().kick();
+
 		
 	}
 	public void test() {
 		System.out.println("Main#test");
-=======
-		new Tiger().kick();
->>>>>>> feature/animal
+
+
 	}
 
 }
